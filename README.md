@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/111512651/227792125-2fd2fc79-d424-4b0b-ac93-9c59977fddc6.png)
+![image](https://user-images.githubusercontent.com/111512651/227797573-c69789ce-1e6a-4e4b-a025-4d416560ffb4.png)
+
 
 
 Já pararam para pensar como seria produtivo não perder tanto tempo com a limpeza de dados e outros procedimentos demorados e cansativos na criação de modelos de machine learning?
